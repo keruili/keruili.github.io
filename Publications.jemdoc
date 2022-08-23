@@ -1,0 +1,78 @@
+# jemdoc: menu{MENU}{research.html}, notime
+==Research Publications
+
+== Thesis
+. *K. Li*. "/Advanced Wireless Power Conversion Technologies: Topology, Modulation, and Control/." Thesis, University of Hong Kong, Pokfulam, Hong Kong SAR, 2021, [https://hub.hku.hk/handle/10722/306992 thesis].
+
+
+== Journal
+. *K. Li*, S. C. Tan, and S. Y. R. Hui, "Interleaved Buck-Type Rectifier with Pseudo-DC-Link Capacitors for Automatic Current Balancing," /IEEE Transactions on Industrial Electronics/, vol. 69, no. 12, pp. 12676-12687, Dec. 2022, doi: [https://ieeexplore.ieee.org/document/9652055 10.1109/TIE.2021.3134062].
+. *K. Li*, H. Yuan, S. C. Tan, and S. Y. R. Hui, "Overshoot Damping and Dynamics Improvement in Wireless Power Transfer Systems via Receiver-Side Controller Design", /IEEE Transactions on Power Electronics/, vol. 37, no. 2, pp. 2362-2371, Feb. 2022, doi:[https://ieeexplore.ieee.org/document/9511168 10.1109/TPEL.2021.3103578].
+. *K. Li*, S. C. Tan, and S. Y. R. Hui, "Dynamic Response and Stability Margin Improvement of Wireless Power Receiver Systems via Right-Half-Plane Zero Elimination", /IEEE Transactions on Power Electronics/, vol. 36, no. 10, pp. 11196-11207, Oct. 2021, doi:[https://ieeexplore.ieee.org/document/9409739 10.1109/TPEL.2021.3074324].
+. *K. Li*, S. C. Tan, and S. Y. R. Hui, "Efficient Hybrid-Modulated Single-Stage Wireless Power Receiver with Continuous DC Current", /IEEE Transactions on Power Electronics/, vol. 36, no. 12, pp. 13504-13514, Dec. 2021, doi: [https://ieeexplore.ieee.org/document/9399837 10.1109/TPEL.2021.3072101].
+. *K. Li*, S. C. Tan and S. Y. R. Hui, "On Effect of Right-Half-Plane Zero Present in Buck Converters with Input Current Source in Wireless Power Receiver Systems", /IEEE Transactions on Power Electronics/, vol. 36, no. 6, pp. 6364-6374, June 2021, doi: [https://ieeexplore.ieee.org/document/9272856 10.1109/TPEL.2020.3041006].
+
+. *K. Li*, S. C. Tan and S. Y. R. Hui, "Low-Cost Single-Switch Bidirectional Wireless Power Transceiver for Peer-To-Peer Charging", /IEEE Journal of Emerging and Selected Topics in Power Electronics/, vol. 9, no. 3, pp. 3781-3790, June 2021, doi:[https://ieeexplore.ieee.org/document/9120052 10.1109/JESTPE.2020.3003462].
+
+
+. *K. Li*, S. C. Tan and S. Y. R. Hui, "On Beat Frequency Oscillation of Two-Stage Wireless Power Receivers", /IEEE Transactions on Power Electronics, vol. 35, no. 12, pp. 12741-12751/, Dec. 2020, doi:[https://ieeexplore.ieee.org/document/9082163 10.1109/TPEL.2020.2991297]. (Highlighted Paper of December 2020 Issue)
+
+. *K. Li*, A. T. L. Lee, S. C. Tan and S. Y. R. Hui, "Highly-Efficient Single-Switch-Regulated Resonant Wireless Power Receiver with Hybrid Modulation", /IEEE Journal of Emerging and Selected Topics in Power Electronics/, vol. 9, no. 3, pp. 3770-3780, June 2021, doi:[https://ieeexplore.ieee.org/document/9058645 10.1109/JESTPE.2020.2986372]
+
+. *K. Li*, S. C. Tan and S. Y. R. Hui, "Single-Stage Regulated Resonant WPT Receiver with Low Input Harmonic Distortion", /IEEE Transactions on Power Electronics/, vol. 35, no. 7, pp. 6820-6829, July 2020, doi:[https://ieeexplore.ieee.org/document/8931003 10.1109/TPEL.2019.2959057].
+
+. *K. Li*, S. C. Tan and S. Y. R. Hui, "Single-Switch-Regulated Resonant WPT Receiver", /IEEE Transactions on Power Electronics/, vol. 34, no. 11, pp. 10386-10391, Nov. 2019, doi:[https://ieeexplore.ieee.org/document/8717674 10.1109/TPEL.2019.2917552].
+
+. *K. Li*, Y. Hu and A. Ioinovici, " Generation of the Large DC Gain Step-Up Nonisolated Converters in Conjunction With Renewable Energy Sources Starting From a Proposed Geometric Structure", /IEEE Transactions on Power Electronics/, vol. 32, no. 7, pp. 5323-5340, July 2017, doi: [https://ieeexplore.ieee.org/abstract/document/7567545 10.1109/TPEL.2016.2609501].
+
+. C. P. G. Wong, A. T. L. Lee, *K. Li*, S. C. Tan, and S. Y. R. Hui, "Precise Luminous Flux and Color Control of Dimmable Red-Green-Blue Light-Emitting Diode Systems", /IEEE Transactions on Power Electronics/, vol. 37, no. 1, pp. 588-606, Jan. 2022, doi: [https://ieeexplore.ieee.org/document/9508846 10.1109/TPEL.2021.3102260].
+
+. M. Chen, *K. Li*, J. Hu and A. Ioinovici, "Generation of a Family of Very High DC Gain Power Electronics Circuits Based on Switched-Capacitor- Inductor Cells Starting from a Simple Graph", /IEEE Transactions on Circuits and System I/, vol. 63, no. 12, pp. 2381-2392, Dec. 2016, doi: [https://ieeexplore.ieee.org/abstract/document/7605464 10.1109/TCSI.2016.2606124].
+
+
+== Conference
+. *K. Li*, S. C. Tan and S. Y. R. Hui, "High-Frequency Differential Resonant Rectifier with DC Output Voltage Regulation", /2020 IEEE Applied Power Electronics Conference and Exposition (APEC)/, New Orleans, LA, USA, 2020.
+
+. *K. Li*, S. C. Tan and S. Y. R. Hui, "Resonant-Inductive-Boosting DC-DC Converter with Very High Voltage Gain", /2020 IEEE Applied Power Electronics Conference and Exposition (APEC)/, New Orleans, LA, USA, 2020.
+
+
+
+
+. *K. Li*, K. C. Y. Ho, S. C. Tan and S. Y. R. Hui, "Analysis and Design of the Class-E Resonant Regulated Wireless Power Receiver", /2019 IEEE 4th International Future Energy Electronics Conference (IFEEC)/, Singapore, 2019.
+
+. *K. Li*, S. C. Tan and A. Ioinovici, "DC-Shifted Harmonics-Boosted Resonant DC-DC Converter with High-Step-Up Conversion Ratio with ZVS Over the Full Load Range", /2019 IEEE Applied Power Electronics Conference and Exposition (APEC)/, Anaheim, CA, USA, 2019.
+
+. *K. Li*, Y. Yang, S. C. Tan and S. Y. R. Hui, "Sliding-Mode-Based Direct Power Control of Dual-Active-Bridge DC-DC Converters", /2019 IEEE Applied Power Electronics Conference and Exposition (APEC)/, Anaheim, CA, USA, 2019.
+
+. *K. Li* and S. C. Tan, "A Class E2 Inverter-Rectifier-Based Bidirectional Wireless Power Transfer System", /2018 IEEE 4th Southern Power Electronics Conference (SPEC)/, Singapore, Singapore, 2018.
+
+. *K. Li*, Y. Shen, Y. Yang, Z. Qin and F. Blaabjerg, "A transformerless single-phase symmetrical Z-source HERIC inverter with reduced leakage currents for PV systems", /2018 IEEE Applied Power Electronics Conference and Exposition (APEC)/, San Antonio, TX, 2018.
+
+. *K. Li*, Z. Yin, Y. Y. H. Wang and F. Blaabjerg, "A switched-capacitor based high conversion ratio converter for renewable energy applications: Principle and generation", /2017 IEEE Energy Conversion Congress and Exposition (ECCE)/, Cincinnati, OH, 2017.
+
+. *K. Li*, M. Chen and A. Ioinovici, "Mixed Switched-Capacitor Based High Conversion Ratio Converter and Generalization for Renewable Energy Applications", /2016 IEEE Energy Conversion Congress and Exposition (ECCE)/, Milwaukee, WI, 2016.
+
+. *K. Li*, Y. Hu and A. Ioinovici, "A New Switching Cell for A Family of Large DC Gain Non-isolated Converters", /41st Annual Conference of the IEEE Industrial Electronics Society (IECON2015)/, Yokohama, Japan, 2015.
+
+. *K. Li*, Z. Yin, H. Chung and A. Ioinovici, "From a Voltage Divider to a Voltage Doubler for a Large DC Gain Converter", /17th European Conference on Power Electronics and Applications (EPE'15 ECCE Europe)/, 2015, Geneva, Switzerland, 2015.
+
+. *K. Li* and A. Ioinovici, "Large DC Gain Nonisolated Converter Based on a New L-C-D Step-Up Switching Cell", /2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS) 2014/, Okinawa, Japan, 2014.
+
+. M. Chen, H. Tan, *K. Li*, Y. Yang, "Applying Diode-Capacitor Voltage Multiplier to Coupled-Inductor Boost Converter for Novel DC-DC Converter with High Voltage Gain and Low Voltage Stress", /2018 IEEE Energy Conversion Congress and Exposition(ECCE)/, Portland, USA, 2018.
+
+. M. Chen, *K. Li*, and A. Ioinovici, "A family of high DC gain step-up non-isolated converters based on a new hybrid passive switching cell," /2016 18th European Conference on Power Electronics and Applications (EPE'16 ECCE Europe)/, Karlsruhe,Germany, 2016.
+
+. M. Chen, *K. Li*, and A. Ioinovici, "Hybrid Switched-Capacitor Quadratic Boost Converters with Very High DC Gain and Low Voltage Stress On Their Semiconductor Devices", /2016 IEEE Energy Conversion Congress and Exposition(ECCE 2016)/, Milwaukee, WI, USA, 2016.
+
+. M. Chen, J. Hu and *K. Li*, "A new control method of parallel-connected inverters using receding-horizon prediction with continuous control set," /2016 IEEE 8th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia)/, Hefei, China, 2016.
+
+. Y. Hu, *K. Li*, Z. Yin and A. Ioinovici, "Switched-Inductor-Based Non-isolated Large Conversion Ratio, Low Components Count DC-DC Regulators", /2015 IEEE Energy Conversion Congress and Exposition(ECCE)/, Montreal, Canada, 2015.
+
+. Z. Yin, M. Chen, *K. Li*, and A. Ioinovici, "A new ZCS PWM full-bridge converter of buck-type for applications with very high input voltage," /IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society (IECON)/, Yokohama, Japan, 2015.
+
+. Y. Hu, *K. Li*, M. Chen, "Diode-Capacitor-Inductor Network Based DC/DC Converters with High Power Density for High Voltage Gain Step-Up Applications", 41st Annual Conference of the IEEE Industrial Electronics Society (IECON), Yokohama, Japan, 2015.
+
+
+
+
+
