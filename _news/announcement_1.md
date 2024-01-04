@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11
+date: 2016-01-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Dr Li is invited for tutorial at the 2nd IEEE International Power Electronics and Application Symposium.
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
