@@ -7,9 +7,5 @@ nav: true
 nav_order: 2
 ---
 <!-- _pages/fundings.md -->
-<div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
 
