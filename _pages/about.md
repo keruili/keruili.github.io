@@ -9,9 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>☎️ +852 3917 8419</p>
-    <p>Room 711</p>
-    <p>Chow Yei Ching Building</p>
-    <p> 🏢The University of Hong Kong</p>
+    <p>🏢Room 711, CYC Building</p>
+    <p> [The University of Hong Kong](https://www.hku.hk/)</p>
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
