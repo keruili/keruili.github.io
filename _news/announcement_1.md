@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr Li is invited for the tutorial at the 2nd IEEE International Power Electronics and Application Symposium ([PEAS 2023](http://peas.cpss.org.cn/))
+Dr Li is invited for the tutorial at the 2nd IEEE International Power Electronics and Application Symposium ([PEAS 2023](http://peas.cpss.org.cn/)).
