@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The University of Hong Kong</a></p> 
- <a href='#'>Resaerch Assistant Professor</a></p> 
+subtitle:  <a href='#'>Resaerch Assistant Professor</a></p> 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+852 3917 8419</p>
+    <p>:phone: +852 3917 8419</p>
     <p>Room 711</p>
     <p>Chow Yei Ching Building</p>
     <p>The University of Hong Kong</p>
