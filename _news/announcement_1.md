@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Nov. 2023
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Dr Li is invited for Tutorial at the 2nd IEEE International Power Electronics and Application Symposium ([PEAS 2023](http://peas.cpss.org.cn/Home/Default)).
