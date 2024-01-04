@@ -11,7 +11,7 @@ profile:
     <p>☎️ +852 3917 8419</p>
     <p>Room 711</p>
     <p>Chow Yei Ching Building</p>
-   <a href='https://www.hku.hk/'> 🏢The University of Hong Kong</a></p>
+    <p> 🏢The University of Hong Kong</p>
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
