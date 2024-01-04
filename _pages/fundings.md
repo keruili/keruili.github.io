@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /fundings/
 title: fundings
 description: Fundings received.
 nav: true
