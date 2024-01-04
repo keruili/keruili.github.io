@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>The University of Hong Kong</a></p> 
+subtitle: <a href='#'>Resaerch Assistant Professor</a></p> 
 profile:
   align: right
   image: prof_pic.jpg
