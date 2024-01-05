@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Phone: +852 3917 2706</p>
-      <p>Office: CB 601C, The University of Hong Kong</p>
+      <p>Office: CB 601C, HKU</p>
       <p>Hong Kong</p>
   - align: left
     image: prof_sc.jpg
@@ -23,6 +23,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Phone: +852 3917 2707</p>
-      <p>Office: CB 719, The University of Hong Kong</p>
+      <p>Office: CB 719, HKU</p>
       <p>Hong Kong</p>
 ---
