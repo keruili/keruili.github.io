@@ -8,8 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>☎️ +852 3917 8419</p>
-    <p>🏢Room 711, Chow Yei Ching Building</p>
+    <p>Phone: +852 3917 8419</p>
+    <p>Office: Room 711, Chow Yei Ching Building, HKU</p>
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
