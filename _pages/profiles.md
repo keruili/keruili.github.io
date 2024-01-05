@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_ron.jpg
-    content: about_.md
+    content: about_ron.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Phone: +852 3917 2706</p>
