@@ -1,10 +1,4 @@
 Siew Chong TAN is a Professor at the University of Hong Kong, Hong Kong SAR. He received his B.Eng. (Honors) and M.Eng. degrees in Electrical Engineering from the National University of Singapore, Singapore, and Ph.D. in Electronic and Information Engineering from the Hong Kong Polytechnic University, Hong Kong SAR.
 TAN specializes in power electronics and control. He has published works in nonlinear and sliding mode control applications, LED drivers and lighting control, electric springs, resonant converters, and switched-capacitor converters. His research outputs include 3 research monographs, 2 book chapters, 158 journal papers, and 117 conference papers. He has been granted 29 patents from 13 inventions.
-His recent awards include
-– First Place Prize Paper Award – IEEE Transactions on Power Electronics 2022
-– Best Paper Bronze Award – International Conference on PESA 2020
-– Second Place Prize Paper Award – IEEE Transactions on Power Electronics 2019
-– Best Paper Award at IEEE ECCE 2016
-– Outstanding Presentation Award at IEEE APEC 2016.
 He is among the Top 1% Scholars (globally most-cited scientists according to Thomson Reuter’s Essential Science Indicators) [2017, 2018, 2019, 2020, 2021, 2022, 2023]. He is also in the Stanford University Top 2% Scientists List [2019, 2020, 2021, 2022].
 TAN is an active member of IEEE, served as Associate Editor of IEEE TPEL and reviewer of many IEEE transactions and journals. He served as Organizing Committee Co-Chair for IEEE Workshop on Emerging Technologies: Wireless Power, Canada, 2018 and Technical Program Committee Co-Chair for IEEE International Conference on Smart Grid Communications, U.S.A., 2015. He had also served as technical committee member and review committee member in several international conferences. He served as Member, Appeal Board Panel under Electricity Ordinance (Chapter 406), The Government of the Hong Kong Special Administrative Region. He is a practicing consultant and has worked on projects involving power outages, lithium battery testing, advisory role on LED patent litigations.
