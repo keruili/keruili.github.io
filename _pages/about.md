@@ -9,6 +9,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Phone: +852 3917 8419</p>
+    <p>Email: krli@connect.hku.hk</p>
     <p>Office: Room 711, Chow Yei Ching Building, HKU</p>
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
