@@ -11,18 +11,18 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_ron.jpg
-    content: about_einstein.md
+    content: about_.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>+852 3917 8419</p>
-      <p>123 your address street</p>
+      <p>Phone: +852 3917 2706</p>
+      <p>Office: CB 601C, The University of Hong Kong</p>
       <p>Hong Kong</p>
   - align: left
     image: prof_sc.jpg
-    content: about_einstein.md
+    content: about_sc.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Phone: +852 3917 2707</p>
+      <p>Office: CB 719, The University of Hong Kong</p>
+      <p>Hong Kong</p>
 ---
