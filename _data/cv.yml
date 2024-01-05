@@ -99,8 +99,20 @@
     - year: 2020
       items: 
         - Power Engineering Prize
+    - year: 2019
+      items: 
+        - HK Electric Electrical Energy Postgraduate Scholarship
+    - year: 2018
+      items: 
+        - Certificate of Teaching and Learning in Higher Education
+    - year: 2017 - 2021
+      items: 
+        - Postgraduate Scholarship
+    - year: 2015
+      items: 
+        - China National Scholarship
+        - Third Prize in China Graduate Electronics Design Contest
         
-
 - title: Academic Interests
   type: nested_list
   contents:
