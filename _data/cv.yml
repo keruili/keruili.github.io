@@ -60,6 +60,10 @@
       institution: Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR
       year: 2014
       description: 
+    - title: Visiting Student
+      institution: Department of Energy Technology, Aalborg University, Aalborg, Denmark
+      year: 2016 - 2017
+      description: 
         - title: Modelling and control development of high step-up DC-DC converters.
           contents:
             - Develop the steady-state and small-signal model of high step-up DC-DC converters.
