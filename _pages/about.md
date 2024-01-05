@@ -6,7 +6,7 @@ subtitle:  <a href='#'>Resaerch Assistant Professor, The University of Hong Kong
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Phone: +852 3917 8419</p>
     <p>Office: Room 711, Chow Yei Ching Building, HKU</p>
