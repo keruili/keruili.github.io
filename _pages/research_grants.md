@@ -7,6 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-1. **Principal investigator**:
-* **2024 - 2026**： “Topology Optimization and Control of Cascaded Wireless Power Transfer System under Stability Constraints”, _General Research Fund of Guangdong Province_, RMB$150,000.
-* **2023**：_PolyU Start-Up Fund_, HK$250,000. 
+1. **principal investigator:**
+* 2024 - 2026： “Topology Optimization and Control of Cascaded Wireless Power Transfer System under Stability Constraints”, _**General Research Fund of Guangdong Province**_, RMB$ 150,000.
+* 2023：_**PolyU Start-Up Fund**_, HK$ 500,000. 
