@@ -113,19 +113,42 @@
         - China National Scholarship
         - Third Prize in China Graduate Electronics Design Contest
         
-- title: Academic Interests
+- title: Academic Activities
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Reviewer
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - IEEE Transactions on Power Electronics (since 2016)
+        - IEEE Transactions on Industrial Electronics (since 2016)
+        - IEEE Journal of Emerging and Selected Topics in Power Electronics (since 2019)
+        - IEEE Journal of Emerging and Selected Topics in Industrial Electronics (since 2022)
+        - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (since 2022)
+        - Energy (since 2023)
+    - title: Professional Service
       items:
-        - Description 1.
-        - Description 2.
+        - Special session organizer and session chair at the 12th IET International Conference on Advances in Power System Control, Operation and Management (APSCOM 2022)
+    - title: Invited Seminars
+      items:
+        - Tutorial at the 2nd IEEE International Power Electronics and Application Symposium (PEAS 2023)
+        - Tutorial at 2023 IEEE 14th International Symposium on Power Electronics for Distributed Generation Systems (PEDG 2023)
+        - Tutorial at 2022 9th International Conference on Power Electronics Systems and Applications (PESA 2022)
+        - Departmental Seminar at ShanghaiTech University (July 2022)
+        - Young Researchers Forum at Southern University of Science and Technology (Jan. 2022)
+        - Departmental Seminars at The University of Hong Kong (Jul. 2023, Dec. 2020)
+    - title: Oral presentation
+      items:
+        - 2020 IEEE Applied Power Electronics Conference and Exposition, New Orleans, USA
+        - 2019 IEEE 4th International Future Energy Electronics Conference, Singapore
+        - 2019 IEEE Applied Power Electronics Conference and Exposition, Anaheim, USA
+        - 2014 IEEE Asia Pacific Conference on Circuits and Systems, Ishigaki Island, Okinawa, Japan
+    - title: Poster presentation
+      items:
+        - 2020 IEEE Applied Power Electronics Conference and Exposition, New Orleans, USA
+        - 2019 IEEE Applied Power Electronics Conference and Exposition, Anaheim, USA
+        - 2015 17th European Conference on Power Electronics and Applications, Geneva, Switzerland    
 
-- title: Other Interests
+- title: Research Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  items:
+  - wireless power transfer
