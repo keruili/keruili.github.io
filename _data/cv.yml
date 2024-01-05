@@ -31,11 +31,7 @@
           contents:
             - Develop the full-wave electromagnetic model of wireless power resonator.
             - Develop the machine learning-based non-gradient optimization.
-         - title: Optimal wireless charging strategy development.
-          contents:
-            - Develop the electrochemical-thermal model of Li-ion batteries.
-            - Develop transmitter-side wireless charging topologies.
-            - Develop and optimize wireless charging strategies based on electrochemical-thermal model.
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
