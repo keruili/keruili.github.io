@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr Li has been awarded a [2022 IEEE Transactions on Power Electronics Prize Paper Award](https://www.ieee-pels.org/awards/pels-publications/tpel-prize-paper) (First Place) .
+I have been awarded a [2022 IEEE Transactions on Power Electronics Prize Paper Award](https://www.ieee-pels.org/awards/pels-publications/tpel-prize-paper) (First Place) .
