@@ -27,10 +27,12 @@
       institution: School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
       year: 2022 - 2023
       description:
-         - title: Optimization and modelling of wireless power resonator.
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - Develop the full-wave electromagnetic model of wireless power resonator.
-            - Develop the machine learning-based non-gradient optimization.
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
