@@ -14,6 +14,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
+openforapplication: true # includes post for open for application
 social: true  # includes social icons at the bottom of the page
 ---
 
