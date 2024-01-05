@@ -90,10 +90,16 @@
   contents:
     - year: 2023
       items: 
-        - Nobel Prize in Physics 
-    - year: 2029
+        - First Place IEEE Transactions on Power Electronics Prize Paper Award
+        
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - High-quality Paper Award in 12th IET International Conferences on Advances in Power Systems Control, Operation and Management (APSCOM)
+        - IEEE PELS Ph.D. Thesis Talk Winner
+    - year: 2020
+      items: 
+        - Power Engineering Prize
+        
 
 - title: Academic Interests
   type: nested_list
