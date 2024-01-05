@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research_grants/
-title: funding
+title: research grants
 description: Received research grants in reversed chronological order. 
 nav: true
 nav_order: 2
