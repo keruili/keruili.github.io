@@ -57,13 +57,15 @@
             - Develop advanced topologies, modulation, and control schemes to improve the efficiency and enhance the stability.
             - Publish 7 papers in IEEE Transactions on Power Electronics, 1 paper in IEEE Transactions on Industrial Electronics, and 2 papers in IEEE Journal of Emerging and Selected Topics on Power Electronics.
     - title: Visiting Student
-      institution: Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR
-      year: 2014
-      description:
-      - title: Topology development of PV inverter with leakage current suppression.
-    - title: Visiting Student
       institution: Department of Energy Technology, Aalborg University, Aalborg, Denmark
       year: 2016 - 2017
+      description:
+      - title: Topology development of PV inverter with leakage current suppression.
+        contents:
+        - Develop the quantitative model for the leakage current.
+    - title: Visiting Student
+      institution: Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR
+      year: 2014
       description: 
         - title: Modelling and control development of high step-up DC-DC converters.
           contents:
