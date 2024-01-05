@@ -4,9 +4,9 @@
     - name: Full Name
       value: Kerui Li
     - name: Languages
-      value: - English (Full professional proficiency)
-             - Putonghua (Native language)
-             - Cantonese (Native language)
+      value: English (Full professional proficiency)
+             Putonghua (Native language)
+             Cantonese (Native language)
 
 - title: Education
   type: time_table
