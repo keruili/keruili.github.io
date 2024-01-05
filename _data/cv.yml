@@ -27,20 +27,29 @@
       institution: School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
       year: 2022 - 2023
       description:
-        - title: Description 3.
+        - title: Optimization and modelling of wireless power resonator.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-        - title: Description 3.
+            - Develop the full-wave electromagnetic model of wireless power resonator.
+            - Develop the machine learning-based non-gradient optimization.
+        - title: Optimal wireless charging strategy development.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - Develop the electrochemical-thermal model of Li-ion batteries.
+            - Develop transmitter-side wireless charging topologies.
+            - Develop and optimize wireless charging strategies based on electrochemical-thermal model.
+        - title: 3D wireless power transfer system.
+          contents:
+            - Develop a 3D winding structure for 3D wireless power transfer chamber.
+            - Magnetic field analysis of the 3D winding structure.
+            - Prototype a 3D wireless power transfer chamber.
+    - title: PhD
+      institution: Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR
+      year: 2017 - 2021
+      description: 
+        - title: Development of advanced wireless power conversion technologies.
+          contents:
+            - Stability analysis of wireless power transfer system.
+            - Develop advanced topologies, modulation, and control schemes to improve the efficiency and enhance the stability.
+            - Publish 7 papers in IEEE Transactions on Power Electronics, 1 paper in IEEE Transactions on Industrial Electronics, and 2 papers in IEEE Journal of Emerging and Selected Topics on Power Electronics.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
