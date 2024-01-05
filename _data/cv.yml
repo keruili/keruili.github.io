@@ -20,19 +20,22 @@
       year: 2013
       
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Fellow
+      institution: School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+         - title: Optimization and modelling of wireless power resonator.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Develop the full-wave electromagnetic model of wireless power resonator.
+            - Develop the machine learning-based non-gradient optimization.
+         - title: Optimal wireless charging strategy development.
+          contents:
+            - Develop the electrochemical-thermal model of Li-ion batteries.
+            - Develop transmitter-side wireless charging topologies.
+            - Develop and optimize wireless charging strategies based on electrochemical-thermal model.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
