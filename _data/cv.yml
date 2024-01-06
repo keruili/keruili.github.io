@@ -88,11 +88,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+  - year: 2023
       items:
-        - First Place IEEE Transactions on Power Electronics Prize Paper Award
-          Awarded by IEEE Power Electronics Society
-   - year: 2022
+        - 
+         - First Place IEEE Transactions on Power Electronics Prize Paper Award
+         - Awarded by IEEE Power Electronics Society
+  - year: 2022
       items: 
         - High-quality Paper Award in 12th IET International Conferences on Advances in Power Systems Control, Operation and Management (APSCOM)
         - IEEE PELS Ph.D. Thesis Talk Winner
