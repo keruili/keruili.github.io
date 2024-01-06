@@ -170,7 +170,7 @@
     - wireless power transfer, power electronics, renewable energy
 
 - title: Reference
-  type: nested_list
+  type: list
   contents:
     - title: Prof. Ron Hui
       items: 
