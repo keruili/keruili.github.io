@@ -170,11 +170,11 @@
     - wireless power transfer, power electronics, renewable energy
 
 - title: Reference
-  type: list
+  type: nested_list
   contents:
     - title: Prof. Ron Hui
       items: 
         - Chair Professor, FREng, IEEE Fellow
-        - Email: ron.hui@ntu.edu.sg
-        - Institution: School of Electrical and Electronic Engineering, Nanyang Technological University &
-                       Department of Electrical and Electronic Engineering, Imperial College London
+        - Email-ron.hui@ntu.edu.sg
+        - Institution-School of Electrical and Electronic Engineering, Nanyang Technological University &
+                      Department of Electrical and Electronic Engineering, Imperial College London
