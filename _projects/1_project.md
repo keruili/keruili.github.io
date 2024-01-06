@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: PCB resonator
+description: Printed circuit board (PCB) resonator for mega-Hertz WPT applications.
+img: assets/img/resonator.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: WPT
+related_publications: 10183379
 ---
 
 Every project has a beautiful feature showcase page.
