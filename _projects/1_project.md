@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PCB resonator
+title: MHz resonator
 description: Printed circuit board (PCB) resonator for mega-Hertz WPT applications.
-img: assets/img/resonator.jpg
+img: assets/img/publication_preview/resonator.jpg
 importance: 1
 category: WPT
 related_publications: 10183379
