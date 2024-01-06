@@ -90,8 +90,10 @@
   contents:
     - year: 2023
       description:
-         - title: First Place IEEE Transactions on Power Electronics Prize Paper Award \n\
-                  Awarded by IEEE Power Electronics Society
+        - title: First Place IEEE Transactions on Power Electronics Prize Paper Award 
+          contents:
+          Awarded by IEEE Power Electronics Society
+      
    
 
         
