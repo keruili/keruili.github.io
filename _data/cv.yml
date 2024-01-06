@@ -89,8 +89,9 @@
   type: time_table
   contents:
     - year: 2023
-      title: First Place IEEE Transactions on Power Electronics Prize Paper Award
-      contents:
+      desription:
+        - title: First Place IEEE Transactions on Power Electronics Prize Paper Award
+          contents:
             - Awarded by IEEE Power Electronics Society
         
     - year: 2022
