@@ -89,28 +89,10 @@
   type: time_table
   contents:
     - year: 2023
-      title: First Place IEEE Transactions on Power Electronics Prize Paper Award
-      contents: Awarded by IEEE Power Electronics Society
-    - year: 2022
-      items: 
-        - High-quality Paper Award in 12th IET International Conferences on Advances in Power Systems Control, Operation and Management (APSCOM)
-        - IEEE PELS Ph.D. Thesis Talk Winner
-    - year: 2020
-      items: 
-        - Power Engineering Prize
-    - year: 2019
-      items: 
-        - HK Electric Electrical Energy Postgraduate Scholarship
-    - year: 2018
-      items: 
-        - Certificate of Teaching and Learning in Higher Education
-    - year: 2017 - 2021
-      items: 
-        - Postgraduate Scholarship
-    - year: 2015
-      items: 
-        - China National Scholarship
-        - Third Prize in China Graduate Electronics Design Contest   
+      description:
+        - title: First Place IEEE Transactions on Power Electronics Prize Paper Award
+        - contents: Awarded by IEEE Power Electronics Society
+   
 
         
 - title: Academic Activities
