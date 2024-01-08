@@ -21,7 +21,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for teaching in sorted_teaching -%}
-      {% include projects_horizontal.html %}
+      {% include teaching_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
@@ -42,7 +42,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for teaching in sorted_teaching -%}
-      {% include projects_horizontal.html %}
+      {% include teaching_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
