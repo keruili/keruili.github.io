@@ -27,7 +27,7 @@ horizontal: false
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for teaching in sorted_projects -%}
+    {%- for teaching in sorted_teaching -%}
       {% include teaching.html %}
     {%- endfor %}
   </div>
@@ -35,9 +35,9 @@ horizontal: false
   {% endfor %}
 
 {%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
+<!-- Display teaching without categories -->
+  {%- assign sorted_teaching = site.teaching | sort: "importance" -%}
+  <!-- Generate cards for each teaching -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
