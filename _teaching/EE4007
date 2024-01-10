@@ -6,12 +6,14 @@ importance: 1
 category: 2023
 ---
 <body>
-<h3> Role </h3>
+<h3> My Role </h3>
 <hr>
-<p> Subject leader 
-- Deliver 3-hour lectures and supervise 3-hour laboratory sessions.
-- Create lecture materials, laboratory materials, assignments, in-class questions.
-- Design and mark the mid-term test and final exam papers.
+<p> Subject leader
+<ol>
+<li> Deliver 3-hour lectures and supervise 3-hour laboratory sessions.</li>
+<li> Create lecture materials, laboratory materials, assignments, in-class questions.</li>
+<li> Design and mark the mid-term test and final exam papers.</li>
+</ol>
 </p>
 
 <h3> About </h3>
