@@ -9,7 +9,7 @@ display_categories: [2023,2018-2021,2015]
 horizontal: false
 ---
 <!-- pages/teaching.md -->
-<div class="project">
+<div class="teaching">
 {%- if site.enable_teaching_categories and page.display_categories %}
   <!-- Display categorized teaching -->
   {%- for category in page.display_categories %}
@@ -21,7 +21,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for teaching in sorted_teaching -%}
-      {% include teaching_horizontal.html %}
+      {% include project_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
@@ -42,7 +42,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for teaching in sorted_teaching -%}
-      {% include teaching_horizontal.html %}
+      {% include project_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
