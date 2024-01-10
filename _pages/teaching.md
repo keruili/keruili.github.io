@@ -8,8 +8,8 @@ nav_order: 5
 display_categories: [2023,2018-2021,2015]
 horizontal: false
 ---
-<!-- pages/projects.md -->
-<div class="projects">
+<!-- pages/teaching.md -->
+<div class="teaching">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
