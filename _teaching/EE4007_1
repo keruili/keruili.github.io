@@ -8,15 +8,37 @@ category: 2023
 <body>
 <h3> My Role </h3>
 <hr>
-<p> Subject leader
+<p> Subject leader (<i>Fall 2023</i>)
 <ol>
-<li> Deliver 3-hour lectures and supervise 3-hour laboratory sessions.</li>
+<li> Deliver 3-hour lectures per week and supervise 3-hour laboratory sessions.</li>
 <li> Create lecture materials, laboratory materials, assignments, in-class questions.</li>
 <li> Design and mark the mid-term test and final exam papers.</li>
 </ol>
 </p>
 
-<h3> About </h3>
+<h3> Course Content </h3>
 <hr>
-<p> This course covers the advanced power electronics knowledge. </p>
+<p> 
+<ol>
+<li> Basic  switched-modeDC/DC topologies, operation, performance and modeling</li>
+<li> Resonant converter and itsmethod of loss reduction.</li>
+<li> Switched mode techniques to inverters (DC/AC converters).</li>
+<li> Power electronics circuit simulation.</li>
+<li> Impact of electromagnetic interference (EMI) and the reduction of EMI using power electronicstechniques.</li>
+</ol>
+</p>
+
+<h3> Assessment </h3>
+<hr>
+<p> 
+<ol>
+<li> Assignment: 10% (home work)</li>
+<li> Short test: 15% (Two 30-45 mins in-class short tests)</li>
+<li> Lab Report: 15% (1 lab report)</li>
+<li> Examination: 60% (One three-hour examination)</li>
+</ol>
+</p>
+
+
+
 </body>
