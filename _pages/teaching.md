@@ -16,12 +16,12 @@ horizontal: false
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_teaching = site.teaching | where: "category", category -%}
   {%- assign sorted_teaching = categorized_teaching | sort: "importance" %}
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each teaching -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+    {%- for teaching in sorted_teaching -%}
+      {% include teaching_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
