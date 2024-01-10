@@ -9,8 +9,8 @@ display_categories: [2023,2018-2021,2015]
 horizontal: false
 ---
 <!-- pages/teaching.md -->
-<div class="teaching">
-{%- if site.enable_project_categories and page.display_categories %}
+<div class="project">
+{%- if site.enable_teaching_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
