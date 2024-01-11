@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MHz resonator
+title: Wireless power resonator
 description: Printed circuit board (PCB) resonator for mega-Hertz WPT applications.
 img: assets/img/publication_preview/resonator.jpg
 importance: 1
