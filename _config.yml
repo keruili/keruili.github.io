@@ -278,8 +278,8 @@ display_categories: ['Research'] # these categories will be displayed on the fro
 
 scholar:
 
-  last_name: [Kerui]
-  first_name: [Li]
+  last_name: [Li]
+  first_name: [Kerui,K,K.]
 
   style: apa
   locale: en
